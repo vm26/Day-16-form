@@ -1,5 +1,5 @@
 body{
-    margin:10px 30px;
+    margin:10px 50px;
     font-size: 15px;
     font-weight: bold;  
     margin-bottom: 50px; 
@@ -26,7 +26,7 @@ label {
     padding-right:10px;
 }
 .btn{
-    margin-left:50px;
+    margin-left:100px;
     border:1px solid grey;
     background-color: rgb(245, 98, 208);
     color:white;
